@@ -1,0 +1,23 @@
+{
+  "name": "nodeall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakale3/nodeall.git"
+  },
+  "keywords": [
+    "Node",
+    "Ref"
+  ],
+  "author": "Aditya Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakale3/nodeall/issues"
+  },
+  "homepage": "https://github.com/adityakale3/nodeall#readme"
+}
